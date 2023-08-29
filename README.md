@@ -1,6 +1,6 @@
 ### CocciBot
 
-![CocciBot](.img/coccibot.jpg)
+![CocciBot](Images/1.png)
 
 ## Sommaire
 
@@ -94,9 +94,9 @@ A5			|		Broche du pont diviseur de tension
 - Pour les personnes souhaitant modifier l'application  pour diverses raisons (graphismes qui ne plaisent pas, curiosité...),
 	il leur faut tout d'abord se connecter à leur compte App inventor (voir le tutoriel en pièce-jointe, cf. ```Instructions > Tutoriel_CocciBot_Bluetooth```).
 
-- Ensuite,  selectionnez l'onglet "projects" puis "import project (.aia) from my computer"	
+- Ensuite,  sélectionnez l'onglet "projects" puis "import project (.aia) from my computer"	
 
-- Selectionnez  le fichier "CREPP.aia" du dossier comportant le tutoriel
+- Sélectionnez  le fichier "CREPP.aia" du dossier comportant le tutoriel
 
 - L'interface graphique de l'application devrait s'ouvrir.
 	A vous de la modifier (aide avec le tutoriel) !! 
