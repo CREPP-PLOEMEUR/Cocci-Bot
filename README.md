@@ -1,4 +1,11 @@
+<!--# Cocci-Bot -->
+<!--$ Robotique-->
+<!--$ Arduino-->
+<!--$ Freecad-->
+<!--% Un projet pour un robot autonome et avec un module Bluetooth pour le contrôler à distance -->
 ### CocciBot
+
+Un projet pour un robot autonome et avec un module Bluetooth pour le contrôler à distance.
 
 ![CocciBot](Images/1.png)
 
